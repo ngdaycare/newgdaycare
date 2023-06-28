@@ -362,7 +362,7 @@ div.MuiTypography-root.MuiTypography-h1 {
 ._container_info_table
 div.MuiTypography-root.MuiTypography-h1._atribute {
     font-size: 25px;
-    max-width: 60%;
+    max-width: 40%;
     text-align: left;
 }
 
@@ -373,7 +373,7 @@ div.MuiTypography-root.MuiTypography-h1 {
     font-size: 20px;
     font-weight: 500;
     text-align: left;
-    width: 40%;
+    width: 60%;
 }
 
 ._container_info_table_content {
